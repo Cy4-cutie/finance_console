@@ -1,0 +1,8 @@
+streamlit>=1.40
+pandas>=2.0
+plotly>=5.18
+openpyxl>=3.1
+matplotlib>=3.7
+numpy
+# optional, for the Prophet forecast model:
+# prophet
